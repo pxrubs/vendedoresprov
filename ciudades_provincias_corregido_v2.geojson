@@ -1,0 +1,5366 @@
+{
+    "type": "FeatureCollection",
+    "generator": "overpass-turbo",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+    "timestamp": "2025-02-06T20:37:05Z",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/58946025",
+                "is_in": "Ecuador",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Pichincha",
+                "name": "Cayambe",
+                "place": "town",
+                "url": "http://www.municipiocayambe.gob.ec/",
+                "wikidata": "Q1051957",
+                "wikimedia_commons": "Category:Cayambe (town)",
+                "wikipedia": "en:Cayambe, Ecuador",
+                "vendedor": "Vendedor1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.1429536,
+                    0.0410644
+                ]
+            },
+            "id": "node/58946025"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/58950371",
+                "admin_level": "2",
+                "capital": "yes",
+                "capital_ISO3166-1": "yes",
+                "ele": "2850",
+                "is_capital": "country",
+                "name": "Quito",
+                "name:am": "ኪቶ",
+                "name:ar": "كيتو",
+                "name:ay": "Kitu",
+                "name:az": "Kito",
+                "name:be": "Кіта",
+                "name:be-tarask": "Кіта",
+                "name:bg": "Кито",
+                "name:bo": "ཁེ་ཐོ།",
+                "name:de": "Quito",
+                "name:el": "Κίτο",
+                "name:en": "Quito",
+                "name:eo": "Kito",
+                "name:ext": "Quitu",
+                "name:fa": "کیتو",
+                "name:fr": "Quito",
+                "name:fy": "Kito",
+                "name:he": "קיטו",
+                "name:hi": "क्वीटो",
+                "name:ht": "Kito",
+                "name:hu": "Quito",
+                "name:hy": "Կիտո",
+                "name:is": "Quito",
+                "name:ja": "キト",
+                "name:ka": "კიტო",
+                "name:kk": "Кито",
+                "name:ko": "키토",
+                "name:la": "Quitum",
+                "name:lt": "Kitas",
+                "name:lv": "Kito",
+                "name:mk": "Кито",
+                "name:mr": "क्वितो",
+                "name:nov": "Kito",
+                "name:oc": "Quito",
+                "name:os": "Кито",
+                "name:pa": "ਕੀਤੋ",
+                "name:pl": "Quito",
+                "name:pnb": "کوئتو",
+                "name:qu": "Kitu",
+                "name:ru": "Кито",
+                "name:sq": "Kuito",
+                "name:sr": "Кито",
+                "name:sv": "Quito",
+                "name:th": "กีโต",
+                "name:ug": "كىتو",
+                "name:uk": "Кіто",
+                "name:ur": "کیٹو",
+                "name:yi": "קיטא",
+                "name:zh": "基多",
+                "official_name": "San Francisco de Quito",
+                "place": "city",
+                "population": "2671191",
+                "source": "GNS",
+                "source:name:oc": "Lo Congrès",
+                "source:population": "INEC 2010",
+                "website": "https://www.quito.gob.ec/",
+                "wikidata": "Q2900",
+                "wikipedia": "en:Quito",
+                "vendedor": "Vendedor2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.5123274,
+                    -0.2201641
+                ]
+            },
+            "id": "node/58950371"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249420640",
+                "gns_classification": "PPL",
+                "gns_uni": "-1367828",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia del Chimborazo",
+                "name": "San Pedro de Alausí",
+                "place": "town",
+                "source": "GNS",
+                "wikidata": "Q2640072",
+                "wikipedia": "en:Alausí",
+                "vendedor": "Vendedor3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.8453576,
+                    -2.2051374
+                ]
+            },
+            "id": "node/249420640"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249420668",
+                "alt_name": "Jujan",
+                "gns_classification": "PPL",
+                "gns_uni": "-1367865",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia del Guayas",
+                "name": "Alfredo Baquerizo Moreno",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.555226,
+                    -1.8913275
+                ]
+            },
+            "id": "node/249420668"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249420725",
+                "gns_classification": "PPL",
+                "gns_uni": "-1367965",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Loja",
+                "name": "Amaluza",
+                "place": "town",
+                "population": "3438",
+                "population:date": "2010",
+                "source": "GNS",
+                "vendedor": "Vendedor5"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.4268699,
+                    -4.5813631
+                ]
+            },
+            "id": "node/249420725"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249420749",
+                "capital": "4",
+                "ele": "2577",
+                "gns_classification": "PPL",
+                "is_capital": "state",
+                "name": "Ambato",
+                "official_name": "San Juan de Ambato",
+                "place": "city",
+                "population": "165185",
+                "source": "GNS;wikipedia",
+                "source:population": "INEC 2010",
+                "wikidata": "Q210161",
+                "vendedor": "Vendedor6"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.6287594,
+                    -1.2422413
+                ]
+            },
+            "id": "node/249420749"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249420864",
+                "gns_classification": "PPL",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Napo",
+                "name": "Archidona",
+                "place": "town",
+                "source": "GNS",
+                "wikidata": "Q4786593",
+                "wikipedia": "en:Archidona, Ecuador",
+                "vendedor": "Vendedor7"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.8070527,
+                    -0.9089682
+                ]
+            },
+            "id": "node/249420864"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249420894",
+                "is_capital": "county",
+                "name": "Atacames",
+                "place": "town",
+                "source": "GNS",
+                "wikidata": "Q753121",
+                "wikimedia_commons": "Category:Atacames",
+                "wikipedia": "es:Atacames",
+                "vendedor": "Vendedor8"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.848646,
+                    0.8688789
+                ]
+            },
+            "id": "node/249420894"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249420939",
+                "gns_classification": "PPL",
+                "is_capital": "county",
+                "name": "Baeza",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor9"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.8899244,
+                    -0.4633975
+                ]
+            },
+            "id": "node/249420939"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249420949",
+                "capital": "4",
+                "gns_classification": "PPL",
+                "is_capital": "state",
+                "name": "Babahoyo",
+                "name:en": "Babahoyo",
+                "name:ru": "Бабаойо",
+                "place": "city",
+                "population": "84164",
+                "source": "GNS",
+                "wikidata": "Q797568",
+                "wikipedia": "en:Babahoyo",
+                "vendedor": "Vendedor10"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.5338214,
+                    -1.8009022
+                ]
+            },
+            "id": "node/249420949"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249420950",
+                "gns_classification": "PPL",
+                "gns_uni": "-1368385",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Los Ríos",
+                "name": "Baba",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor11"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.6793179,
+                    -1.7830988
+                ]
+            },
+            "id": "node/249420950"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249420953",
+                "capital": "4",
+                "gns_classification": "PPL",
+                "is_capital": "state",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia del Cañar",
+                "name": "Azogues",
+                "place": "town",
+                "source": "GNS",
+                "wikidata": "Q786758",
+                "wikipedia": "es:Azogues",
+                "vendedor": "Vendedor12"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.8467191,
+                    -2.7380492
+                ]
+            },
+            "id": "node/249420953"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249420968",
+                "gns_classification": "PPL",
+                "is_capital": "county",
+                "is_in": "resort_towns",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Manabí",
+                "name": "Bahía de Caráquez",
+                "name:ru": "Баия-де-Каракес",
+                "place": "town",
+                "population": "24963",
+                "source": "GNS",
+                "website": "https://www.bahiadecaraquez.com/",
+                "wikidata": "Q2749246",
+                "wikipedia": "en:Bahía de Caráquez",
+                "vendedor": "Vendedor13"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.423572,
+                    -0.5999649
+                ]
+            },
+            "id": "node/249420968"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249420979",
+                "gns_classification": "PPL",
+                "gns_uni": "-1368477",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia del Guayas",
+                "name": "Balzar",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor14"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9041017,
+                    -1.3641965
+                ]
+            },
+            "id": "node/249420979"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249421839",
+                "gns_classification": "PPL",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia del Cañar",
+                "name": "Biblián",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor15"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.8908362,
+                    -2.7101694
+                ]
+            },
+            "id": "node/249421839"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249421875",
+                "is_capital": "county",
+                "name": "Bolívar",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor16"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.905253,
+                    0.5021138
+                ]
+            },
+            "id": "node/249421875"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249421920",
+                "gns_classification": "PPL",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de El Oro",
+                "name": "Buenavista",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8448873,
+                    -3.3629858
+                ]
+            },
+            "id": "node/249421920"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249421944",
+                "gns_classification": "PPL",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Los Ríos",
+                "name": "San Jacinto de Buena Fe",
+                "place": "town",
+                "population": "17248",
+                "source": "GNS",
+                "website": "https://buenafe.gob.ec/",
+                "wikidata": "Q4985397",
+                "wikipedia": "es:Buena Fe (ciudad)",
+                "vendedor": "Vendedor18"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.4913411,
+                    -0.8966368
+                ]
+            },
+            "id": "node/249421944"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249421952",
+                "alt_name": "General Antonio Elizalde",
+                "gns_classification": "PPL",
+                "gns_uni": "-1368865",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia del Chimborazo",
+                "name": "Cumandá",
+                "place": "town",
+                "source": "GNS",
+                "wikidata": "Q5193786",
+                "wikipedia": "en:Cumandá",
+                "vendedor": "Vendedor19"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.1358437,
+                    -2.2049799
+                ]
+            },
+            "id": "node/249421952"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249422069",
+                "gns_classification": "PPL",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Manabí",
+                "name": "Calceta",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor20"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.1640382,
+                    -0.8480934
+                ]
+            },
+            "id": "node/249422069"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249422085",
+                "alt_name": "Villa La Unión",
+                "gns_classification": "PPL",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia del Chimborazo",
+                "name": "Cajabamba",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor21"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.773049,
+                    -1.7015501
+                ]
+            },
+            "id": "node/249422085"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249422111",
+                "gns_classification": "PPL",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:county": "Cañar",
+                "is_in:state": "Provincia del Cañar",
+                "name": "Cañar",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor22"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.9380202,
+                    -2.5594342
+                ]
+            },
+            "id": "node/249422111"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249422327",
+                "is_capital": "county",
+                "name": "Arosemena Tola",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor23"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.8552961,
+                    -1.1678304
+                ]
+            },
+            "id": "node/249422327"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249422382",
+                "addr:state": "Provincia de Loja",
+                "gns_classification": "PPL",
+                "name": "Celica",
+                "place": "town",
+                "source": "GNS",
+                "url": "http://www.municipiocelica.gob.ec/",
+                "vendedor": "Vendedor24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9559337,
+                    -4.1030443
+                ]
+            },
+            "id": "node/249422382"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249422408",
+                "is_capital": "county",
+                "name": "Cevallos",
+                "place": "town",
+                "wikidata": "Q5065747",
+                "wikipedia": "en:Cevallos",
+                "vendedor": "Vendedor25"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.6163995,
+                    -1.3549392
+                ]
+            },
+            "id": "node/249422408"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249422447",
+                "is_capital": "county",
+                "name": "Catacocha",
+                "place": "town",
+                "wikidata": "Q5051163",
+                "wikipedia": "qu:Katakucha",
+                "vendedor": "Vendedor26"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.6497578,
+                    -4.0503147
+                ]
+            },
+            "id": "node/249422447"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249422452",
+                "ele": "1238",
+                "is_capital": "county",
+                "name": "Catamayo",
+                "place": "town",
+                "source": "GNS",
+                "wikidata": "Q15207968",
+                "wikipedia": "es:Catamayo",
+                "vendedor": "Vendedor27"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3574774,
+                    -3.9867405
+                ]
+            },
+            "id": "node/249422452"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249422466",
+                "gns_classification": "PPL",
+                "gns_uni": "-1369545",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Los Ríos",
+                "name": "Catarama",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor28"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.4750201,
+                    -1.5692196
+                ]
+            },
+            "id": "node/249422466"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249422551",
+                "gns_classification": "PPL",
+                "gns_uni": "-1369755",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia del Chimborazo",
+                "name": "Chambo",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor29"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.5951097,
+                    -1.7320661
+                ]
+            },
+            "id": "node/249422551"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249422669",
+                "gns_classification": "PPL",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Bolívar",
+                "name": "Chillanes",
+                "place": "town",
+                "population": "17406",
+                "population:date": "2010",
+                "source": "GNS",
+                "website": "https://www.chillanes.com/",
+                "wikidata": "Q2466598",
+                "wikipedia": "es:Cantón Chillanes",
+                "vendedor": "Vendedor30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.0660695,
+                    -1.9432708
+                ]
+            },
+            "id": "node/249422669"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249422714",
+                "gns_classification": "PPL",
+                "gns_uni": "-1370323",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia del Chimborazo",
+                "name": "Chunchi",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor31"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.919825,
+                    -2.2897354
+                ]
+            },
+            "id": "node/249422714"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249422742",
+                "is_capital": "county",
+                "name": "Chordeleg",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor32"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.7761365,
+                    -2.9222595
+                ]
+            },
+            "id": "node/249422742"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249422778",
+                "gns_classification": "PPL",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:county": "Chone",
+                "is_in:state": "Provincia de Manabí",
+                "name": "Chone",
+                "name:ru": "Чоне",
+                "old_name": "Villa Neogranadina de San Cayetano de Chone;Pueblo Viejo de Chone;Señorío de Pechance",
+                "place": "town",
+                "source": "GNS",
+                "wikidata": "Q2756591",
+                "wikipedia": "en:Chone, Ecuador",
+                "vendedor": "Vendedor33"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0944512,
+                    -0.6990907
+                ]
+            },
+            "id": "node/249422778"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249422824",
+                "gns_classification": "PPL",
+                "gns_uni": "-1370618",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia del Guayas",
+                "name": "Roberto Astudillo",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor34"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.5175738,
+                    -2.1831293
+                ]
+            },
+            "id": "node/249422824"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249422842",
+                "gns_classification": "PPL",
+                "gns_uni": "-1370523",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia del Guayas",
+                "name": "Colimes",
+                "place": "town",
+                "source": "GNS",
+                "wikidata": "Q5144832",
+                "wikipedia": "en:Colimes",
+                "vendedor": "Vendedor35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.010547,
+                    -1.5456483
+                ]
+            },
+            "id": "node/249422842"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249422922",
+                "gns_classification": "PPL",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Manabí",
+                "name": "Crucita",
+                "name:ru": "Крусита",
+                "place": "town",
+                "source": "GNS",
+                "wikidata": "Q4242325",
+                "wikipedia": "es:Crucita",
+                "vendedor": "Vendedor36"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.5380894,
+                    -0.8711015
+                ]
+            },
+            "id": "node/249422922"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249422942",
+                "is_capital": "county",
+                "name": "Cotacachi",
+                "place": "town",
+                "source": "GNS",
+                "wikidata": "Q1001959",
+                "wikimedia_commons": "Category:Cotacachi (city)",
+                "wikipedia": "es:Cotacachi",
+                "vendedor": "Vendedor37"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.2654776,
+                    0.2977632
+                ]
+            },
+            "id": "node/249422942"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249422969",
+                "gns_classification": "PPL",
+                "gns_uni": "-1370712",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia del Guayas",
+                "name": "Coronel Marcelino Maridueña",
+                "place": "town",
+                "source": "GNS",
+                "wikidata": "Q642543",
+                "vendedor": "Vendedor38"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.4413647,
+                    -2.2127472
+                ]
+            },
+            "id": "node/249422969"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249423137",
+                "gns_classification": "PPL",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Manabí",
+                "name": "El Carmen",
+                "place": "town",
+                "source": "GNS",
+                "wikidata": "Q8772897",
+                "wikimedia_commons": "Category:El Carmen, Ecuador",
+                "wikipedia": "es:El Carmen (Manabí)",
+                "vendedor": "Vendedor39"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.4615689,
+                    -0.2727693
+                ]
+            },
+            "id": "node/249423137"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249423150",
+                "name": "El Cambio",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor40"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9010685,
+                    -3.2876518
+                ]
+            },
+            "id": "node/249423150"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249423161",
+                "gns_classification": "PPL",
+                "is_capital": "county",
+                "name": "El Chaco",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor41"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.809851,
+                    -0.3386642
+                ]
+            },
+            "id": "node/249423161"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249423303",
+                "gns_classification": "PPL",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Zamora Chinchipe",
+                "name": "El Pangui",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor42"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.5869441,
+                    -3.625
+                ]
+            },
+            "id": "node/249423303"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249423310",
+                "gns_classification": "PPL",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:county": "Durán",
+                "is_in:state": "Provincia del Guayas",
+                "name": "Durán",
+                "official_name": "Eloy Alfaro",
+                "place": "city",
+                "population": "178714",
+                "source": "GNS",
+                "url": "www.duran.gov.ec/",
+                "wikidata": "Q1120810",
+                "vendedor": "Vendedor43"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8340647,
+                    -2.1688548
+                ]
+            },
+            "id": "node/249423310"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249423408",
+                "gns_classification": "PPL",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Sucumbíos",
+                "name": "El Dorado de Cascales",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor44"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.2113203,
+                    0.0781045
+                ]
+            },
+            "id": "node/249423408"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249423578",
+                "capital": "4",
+                "gns_classification": "PPL",
+                "is_capital": "state",
+                "name": "Esmeraldas",
+                "place": "city",
+                "population": "95216",
+                "ref:LOCODE": "ECESM",
+                "source": "bing",
+                "url": "http://municipioesmeraldas.gov.ec/portal/",
+                "wikidata": "Q149955",
+                "wikipedia": "es:Esmeraldas (ciudad)",
+                "vendedor": "Vendedor45"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.6523847,
+                    0.9668153
+                ]
+            },
+            "id": "node/249423578"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249423604",
+                "gns_classification": "PPL",
+                "gns_uni": "-1372044",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Manabí",
+                "name": "Flavio Alfaro",
+                "place": "town",
+                "source": "GNS",
+                "wikidata": "Q13189481",
+                "wikipedia": "es:Flavio Alfaro (ciudad)",
+                "vendedor": "Vendedor46"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9049065,
+                    -0.4046108
+                ]
+            },
+            "id": "node/249423604"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249423646",
+                "gns_classification": "PPL",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia del Cañar",
+                "name": "El Tambo",
+                "place": "town",
+                "source": "GNS",
+                "wikidata": "Q130614449",
+                "vendedor": "Vendedor47"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.9269859,
+                    -2.5100723
+                ]
+            },
+            "id": "node/249423646"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249423752",
+                "gns_classification": "PPL",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Loja",
+                "name": "Gonzanamá",
+                "place": "town",
+                "population": "2521",
+                "population:date": "2010",
+                "source": "GNS",
+                "wikidata": "Q3773331",
+                "wikipedia": "en:Gonzanamá",
+                "vendedor": "Vendedor48"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.4365638,
+                    -4.2302729
+                ]
+            },
+            "id": "node/249423752"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249423766",
+                "gns_classification": "PPL",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Morona Santiago",
+                "name": "Gualaquiza",
+                "place": "town",
+                "source": "GNS",
+                "wikidata": "Q5613370",
+                "vendedor": "Vendedor49"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.5811743,
+                    -3.4014766
+                ]
+            },
+            "id": "node/249423766"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249423892",
+                "gns_classification": "PPL",
+                "gns_uni": "-1372216",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia del Azuay",
+                "name": "Girón",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor50"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.1463401,
+                    -3.1611773
+                ]
+            },
+            "id": "node/249423892"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249423933",
+                "alt_name": "Gral. Leonidas Plaza Guitierrez",
+                "gns_classification": "PPL",
+                "is_capital": "county",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Morona Santiago",
+                "name": "Limón Indanza",
+                "name:es": "Limón Indaza",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor51"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.4308133,
+                    -2.9663139
+                ]
+            },
+            "id": "node/249423933"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249424015",
+                "alt_name:ar": "جواياكيول;سانتياغو دي غواياكيول;غواياكيول",
+                "alt_name:fa": "گوایاکیول",
+                "capital": "4",
+                "ele": "5",
+                "gns_classification": "PPL",
+                "gns_uni": "-1372619",
+                "is_capital": "state",
+                "name": "Guayaquil",
+                "name:ar": "غواياكيل",
+                "name:fa": "گوایاکیل",
+                "name:mk": "Гвајакил",
+                "name:oc": "Guayaquil",
+                "name:pnb": "گوآیاکوئل",
+                "name:ru": "Гуаякиль",
+                "name:ur": "گوایاکل",
+                "official_name": "Santiago de Guayaquil",
+                "old_name": "Muy Noble y Muy Leal Ciudad de Santiago de Guayaquil",
+                "place": "city",
+                "population": "3500000",
+                "ref:LOCODE": "ECGYE",
+                "source": "GNS",
+                "source:name:oc": "Lo Congrès",
+                "website": "http://www.guayaquil.gov.ec",
+                "wikidata": "Q43509",
+                "wikipedia": "en:Guayaquil",
+                "vendedor": "Vendedor52"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8868741,
+                    -2.1900563
+                ]
+            },
+            "id": "node/249424015"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249424122",
+                "capital": "4",
+                "gns_classification": "PPL",
+                "is_capital": "state",
+                "name": "Guaranda",
+                "place": "town",
+                "population": "27866",
+                "wikidata": "Q264464",
+                "wikipedia": "en:Guaranda",
+                "vendedor": "Vendedor53"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.0015614,
+                    -1.5922898
+                ]
+            },
+            "id": "node/249424122"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249424138",
+                "is_capital": "county",
+                "name": "Guano",
+                "place": "town",
+                "vendedor": "Vendedor54"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.6447821,
+                    -1.6078171
+                ]
+            },
+            "id": "node/249424138"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249425951",
+                "name": "Licán",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.7054988,
+                    -1.6519025
+                ]
+            },
+            "id": "node/249425951"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249426701",
+                "gns_classification": "PPL",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de El Oro",
+                "name": "Huaquillas",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor56"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.2255462,
+                    -3.4747159
+                ]
+            },
+            "id": "node/249426701"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249429156",
+                "alt_name": "Lago Agrio",
+                "capital": "4",
+                "description": "Founded in the 1960s as a base camp of Texaco.",
+                "gns_classification": "PPL",
+                "is_capital": "state",
+                "name": "Nueva Loja",
+                "place": "town",
+                "population": "34106",
+                "source": "arnotixe: survey;landsat;public free maps",
+                "wikidata": "Q683938",
+                "wikipedia": "es:Nueva Loja",
+                "vendedor": "Vendedor57"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.8834932,
+                    0.0850591
+                ]
+            },
+            "id": "node/249429156"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249429256",
+                "gns_classification": "PPL",
+                "gns_uni": "-1375234",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Sucumbíos",
+                "name": "La Bonita",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor58"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5460728,
+                    0.4729531
+                ]
+            },
+            "id": "node/249429256"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249429310",
+                "name": "La Concordia",
+                "place": "town",
+                "population": "35474",
+                "population:date": "2022",
+                "province": "Santo Domingo",
+                "source": "GNS",
+                "source:population": "wikipedia",
+                "wikidata": "Q16587384",
+                "wikipedia": "es:La Concordia (Ecuador)",
+                "vendedor": "Vendedor59"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3955526,
+                    0.0074804
+                ]
+            },
+            "id": "node/249429310"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249429318",
+                "gns_classification": "PPL",
+                "gns_uni": "-1375063",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Manabí",
+                "name": "Jipijapa",
+                "name:ru": "Хипихапа",
+                "place": "town",
+                "population": "39816",
+                "source": "GNS",
+                "wikidata": "Q11249733",
+                "vendedor": "Vendedor60"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.579195,
+                    -1.3482956
+                ]
+            },
+            "id": "node/249429318"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249429338",
+                "gns_classification": "PPL",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Santa Elena",
+                "name": "José Luis Tamayo",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor61"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.9313848,
+                    -2.2358578
+                ]
+            },
+            "id": "node/249429338"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249429395",
+                "gns_classification": "PPL",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Manabí",
+                "name": "Junín",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor62"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.2055648,
+                    -0.9261304
+                ]
+            },
+            "id": "node/249429395"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249429425",
+                "name": "Izamba",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.5870024,
+                    -1.2272751
+                ]
+            },
+            "id": "node/249429425"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249429433",
+                "gns_classification": "PPL",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:state": "Provincia del Guayas",
+                "name": "Isidro Ayora",
+                "place": "town",
+                "source": "GNS",
+                "wikidata": "Q1990179",
+                "wikipedia": "en:Isidro Ayora Canton",
+                "vendedor": "Vendedor64"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.1463096,
+                    -1.8796754
+                ]
+            },
+            "id": "node/249429433"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249429443",
+                "gns_classification": "PPL",
+                "gns_uni": "-1374963",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Manabí",
+                "name": "Jaramijó",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor65"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.6379934,
+                    -0.9450475
+                ]
+            },
+            "id": "node/249429443"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249429504",
+                "capital": "4",
+                "ele": "2760",
+                "gns_classification": "PPL",
+                "is_capital": "state",
+                "name": "Latacunga",
+                "place": "city",
+                "population": "57127",
+                "source": "GNS;wikipedia",
+                "url": "http://www.latacunga.gov.ec/",
+                "wikidata": "Q379338",
+                "wikipedia": "es:Latacunga",
+                "vendedor": "Vendedor66"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.6145758,
+                    -0.9340311
+                ]
+            },
+            "id": "node/249429504"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249429514",
+                "alt_name": "Rircay",
+                "gns_classification": "PPL",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia del Cañar",
+                "name": "La Troncal",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor67"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3416731,
+                    -2.4246104
+                ]
+            },
+            "id": "node/249429514"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249429561",
+                "is_capital": "county",
+                "name": "Las Naves",
+                "place": "town",
+                "source": "GNS",
+                "wikidata": "Q6492357",
+                "vendedor": "Vendedor68"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3169676,
+                    -1.2867494
+                ]
+            },
+            "id": "node/249429561"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249429579",
+                "alt_name": "Las Lajas",
+                "gns_classification": "PPL",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de El Oro",
+                "name": "La Victoria",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor69"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0636021,
+                    -3.7848952
+                ]
+            },
+            "id": "node/249429579"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249429782",
+                "gns_classification": "PPL",
+                "gns_uni": "-1375564",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Cotopaxi",
+                "name": "La Maná",
+                "place": "city",
+                "source": "GNS",
+                "vendedor": "Vendedor70"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.2243604,
+                    -0.940857
+                ]
+            },
+            "id": "node/249429782"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249429816",
+                "is_capital": "county",
+                "name": "Joya de los Sachas",
+                "place": "town",
+                "source": "GNS",
+                "wikidata": "Q13189679",
+                "wikipedia": "qu:Joya de los Sachas",
+                "vendedor": "Vendedor71"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.8573352,
+                    -0.2995871
+                ]
+            },
+            "id": "node/249429816"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249429923",
+                "gns_classification": "PPL",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de El Oro",
+                "name": "Marcabelí",
+                "place": "town",
+                "source": "GNS",
+                "url": "http://www.marcabeli.com/",
+                "vendedor": "Vendedor72"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9113661,
+                    -3.7844549
+                ]
+            },
+            "id": "node/249429923"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249596111",
+                "capital": "4",
+                "gns_classification": "PPL",
+                "is_capital": "state",
+                "name": "Macas",
+                "name:lt": "Makasas",
+                "name:ru": "Макас",
+                "place": "town",
+                "population": "20000",
+                "source": "GNS",
+                "wikidata": "Q1014554",
+                "vendedor": "Vendedor73"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.1175466,
+                    -2.3046252
+                ]
+            },
+            "id": "node/249596111"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249596113",
+                "gns_classification": "PPL",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Pichincha",
+                "name": "Machachi",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor74"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.5661021,
+                    -0.5122167
+                ]
+            },
+            "id": "node/249596113"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249596175",
+                "gns_classification": "PPL",
+                "gns_uni": "-1376376",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Sucumbíos",
+                "name": "Lumbaquí",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor75"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3290415,
+                    0.0475967
+                ]
+            },
+            "id": "node/249596175"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249596195",
+                "gns_classification": "PPL",
+                "is_capital": "county",
+                "name": "Loreto",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor76"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3103577,
+                    -0.6892537
+                ]
+            },
+            "id": "node/249596195"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249596246",
+                "gns_classification": "PPL",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:state": "Provincia del Guayas",
+                "name": "Lomas de Sargentillo",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor77"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0814602,
+                    -1.8808196
+                ]
+            },
+            "id": "node/249596246"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249596250",
+                "gns_classification": "PPL",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Morona Santiago",
+                "name": "Logroño",
+                "place": "town",
+                "source": "GNS",
+                "wikidata": "Q6667887",
+                "wikipedia": "es:Logroño de los Caballeros",
+                "vendedor": "Vendedor78"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.19963,
+                    -2.6259898
+                ]
+            },
+            "id": "node/249596250"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249596340",
+                "gns_classification": "PPL",
+                "gns_uni": "-1377768",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Manabí",
+                "name": "Paján",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor79"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.4281703,
+                    -1.5540897
+                ]
+            },
+            "id": "node/249596340"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249596377",
+                "alt_name": "San Luis de Otavalo",
+                "gns_classification": "PPL",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Imbabura",
+                "name": "Otavalo",
+                "place": "town",
+                "source": "GNS",
+                "website": "https://otavalo.tours/",
+                "vendedor": "Vendedor80"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.2620835,
+                    0.2295329
+                ]
+            },
+            "id": "node/249596377"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249596424",
+                "is_capital": "county",
+                "name": "Palora",
+                "place": "town",
+                "source": "GNS",
+                "wikidata": "Q1990533",
+                "wikipedia": "es:Cantón Palora‎",
+                "vendedor": "Vendedor81"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.9675269,
+                    -1.6981449
+                ]
+            },
+            "id": "node/249596424"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249596485",
+                "gns_classification": "PPL",
+                "gns_uni": "-1378182",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Manabí",
+                "name": "Pedernales",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor82"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0546784,
+                    0.0701577
+                ]
+            },
+            "id": "node/249596485"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249596495",
+                "gns_classification": "PPL",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia del Azuay",
+                "name": "Paute",
+                "place": "town",
+                "vendedor": "Vendedor83"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.7614971,
+                    -2.7795042
+                ]
+            },
+            "id": "node/249596495"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249596503",
+                "is_capital": "county",
+                "name": "Patate",
+                "place": "town",
+                "vendedor": "Vendedor84"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.5066999,
+                    -1.3121615
+                ]
+            },
+            "id": "node/249596503"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249596616",
+                "gns_classification": "PPL",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Manabí",
+                "name": "Pichincha",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor85"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8192941,
+                    -1.0499301
+                ]
+            },
+            "id": "node/249596616"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249596644",
+                "is_capital": "county",
+                "name": "Pelileo",
+                "place": "town",
+                "vendedor": "Vendedor86"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.5455803,
+                    -1.3295591
+                ]
+            },
+            "id": "node/249596644"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249596649",
+                "gns_classification": "PPL",
+                "gns_uni": "-1378195",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:state": "Provincia del Guayas",
+                "name": "Pedro Carbo",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor87"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.2354157,
+                    -1.8170272
+                ]
+            },
+            "id": "node/249596649"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249596666",
+                "gns_classification": "PPL",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Morona Santiago",
+                "name": "Santiago de Méndez",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor88"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.3227369,
+                    -2.7157093
+                ]
+            },
+            "id": "node/249596666"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249596683",
+                "gns_classification": "PPL",
+                "is_capital": "municipality",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:county": "Milagro",
+                "is_in:state": "Provincia del Guayas",
+                "name": "Milagro",
+                "note": "position to be confirmed, landsat is cloud-covered",
+                "place": "city",
+                "population": "140103",
+                "source": "GNS;wikipedi",
+                "url": "http://www.milagro.gov.ec",
+                "wikidata": "Q773238",
+                "wikipedia": "es:Milagro (Ecuador)",
+                "vendedor": "Vendedor89"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.5935005,
+                    -2.1289136
+                ]
+            },
+            "id": "node/249596683"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249596752",
+                "ele": "59.967",
+                "gns_classification": "PPL",
+                "gns_uni": "-1377071",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Los Ríos",
+                "name": "Juan Montalvo",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor90"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.289217,
+                    -1.7854518
+                ]
+            },
+            "id": "node/249596752"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249596849",
+                "gns_classification": "PPL",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Manabí",
+                "name": "Montecristi",
+                "place": "town",
+                "source": "GNS",
+                "url": "http://www.montecristi.gov.ec",
+                "wikidata": "Q1014493",
+                "wikipedia": "es:Montecristi (cantón)",
+                "vendedor": "Vendedor91"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.6606834,
+                    -1.0504072
+                ]
+            },
+            "id": "node/249596849"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249596888",
+                "gns_classification": "PPL",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:state": "Provincia del Guayas",
+                "name": "Nobol",
+                "place": "town",
+                "source": "GNS",
+                "wikidata": "Q7046025",
+                "wikipedia": "en:Nobol",
+                "vendedor": "Vendedor92"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0117012,
+                    -1.9155898
+                ]
+            },
+            "id": "node/249596888"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249596898",
+                "is_capital": "municipality",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "name": "Pañacocha Ciudad Del Milenio",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor93"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.070446,
+                    -0.4507339
+                ]
+            },
+            "id": "node/249596898"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249596918",
+                "gns_classification": "PPL",
+                "gns_uni": "-1377357",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia del Guayas",
+                "name": "Naranjal",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor94"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.6174687,
+                    -2.6742118
+                ]
+            },
+            "id": "node/249596918"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249596993",
+                "gns_classification": "PPL",
+                "gns_uni": "-1379073",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Cotopaxi",
+                "name": "Pujilí",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor95"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.6955919,
+                    -0.9561387
+                ]
+            },
+            "id": "node/249596993"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249597016",
+                "alt_name": "El Puyo",
+                "capital": "4",
+                "ele": "953",
+                "gns_classification": "PPL",
+                "is_capital": "state",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia del Pastaza",
+                "name": "Puyo",
+                "place": "town",
+                "population": "37600",
+                "wikidata": "Q676931",
+                "wikipedia": "es:Puyo",
+                "vendedor": "Vendedor96"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.9969666,
+                    -1.4854777
+                ]
+            },
+            "id": "node/249597016"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249597042",
+                "gns_classification": "PPL",
+                "gns_uni": "-1379322",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Pichincha",
+                "name": "El Quinche",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor97"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.2967822,
+                    -0.1106988
+                ]
+            },
+            "id": "node/249597042"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249597057",
+                "gns_classification": "PPL",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:county": "Quevedo",
+                "is_in:state": "Provincia de Los Ríos",
+                "name": "Quevedo",
+                "place": "city",
+                "population": "300000",
+                "source": "GNS",
+                "wikidata": "Q773225",
+                "wikipedia": "en:Quevedo, Ecuador",
+                "vendedor": "Vendedor98"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.4663323,
+                    -1.0243508
+                ]
+            },
+            "id": "node/249597057"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249597061",
+                "is_capital": "county",
+                "name": "Quero",
+                "place": "town",
+                "vendedor": "Vendedor99"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.6085588,
+                    -1.3796673
+                ]
+            },
+            "id": "node/249597061"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249597095",
+                "name": "Quisapincha",
+                "place": "town",
+                "vendedor": "Vendedor100"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.6840905,
+                    -1.2340975
+                ]
+            },
+            "id": "node/249597095"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249597119",
+                "capital": "4",
+                "ele": "2754",
+                "gns_classification": "PPL",
+                "gns_uni": "-1379555",
+                "is_capital": "state",
+                "name": "Riobamba",
+                "name:en": "Riobamba",
+                "name:ru": "Риобамба",
+                "name:uk": "Ріобамба",
+                "official_name": "San Pedro de Riobamba",
+                "place": "city",
+                "population": "170000",
+                "source": "GNS",
+                "wikidata": "Q478675",
+                "wikipedia": "es:Riobamba",
+                "vendedor": "Vendedor101"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.6482479,
+                    -1.6732765
+                ]
+            },
+            "id": "node/249597119"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249597129",
+                "gns_classification": "PPL",
+                "gns_uni": "-1379540",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Los Ríos",
+                "name": "Ricaurte",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor102"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.466142,
+                    -1.5706125
+                ]
+            },
+            "id": "node/249597129"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249597163",
+                "gns_classification": "PPL",
+                "gns_uni": "-1379608",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Manabí",
+                "name": "Rocafuerte",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor103"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.4500157,
+                    -0.9242713
+                ]
+            },
+            "id": "node/249597163"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249597187",
+                "gns_classification": "PPL",
+                "gns_uni": "-1379688",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Esmeraldas",
+                "name": "Quinindé",
+                "place": "town",
+                "source": "GNS",
+                "wikidata": "Q7367138",
+                "wikipedia": "en:Quinindé",
+                "vendedor": "Vendedor104"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.4726416,
+                    0.328723
+                ]
+            },
+            "id": "node/249597187"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249597442",
+                "is_capital": "county",
+                "name": "Píllaro",
+                "place": "town",
+                "wikidata": "Q8215260",
+                "wikipedia": "en:Pillaro",
+                "vendedor": "Vendedor105"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.5423177,
+                    -1.1725302
+                ]
+            },
+            "id": "node/249597442"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249597475",
+                "gns_classification": "PPL",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Loja",
+                "name": "Pindal",
+                "place": "town",
+                "source": "GNS",
+                "url": "http://pindal.pinliz.org/",
+                "vendedor": "Vendedor106"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.1079721,
+                    -4.1150962
+                ]
+            },
+            "id": "node/249597475"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249597537",
+                "is_capital": "county",
+                "name": "Playas",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor107"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.3913928,
+                    -2.6356397
+                ]
+            },
+            "id": "node/249597537"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249597621",
+                "capital": "4",
+                "ele": "136",
+                "gns_classification": "PPL",
+                "is_capital": "state",
+                "name": "Portoviejo",
+                "name:en": "Portoviejo",
+                "name:ru": "Портовьехо",
+                "old_name": "Villa Nueva de San Gregorio de Portoviejo",
+                "place": "city",
+                "population": "180641",
+                "source": "GNS",
+                "url": "http://www.portoviejo.gov.ec/default.php",
+                "wikidata": "Q990716",
+                "wikipedia": "es:Portoviejo",
+                "vendedor": "Vendedor108"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.4534134,
+                    -1.05282
+                ]
+            },
+            "id": "node/249597621"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249597633",
+                "name": "Posorja",
+                "place": "town",
+                "wikidata": "Q1496898",
+                "wikipedia": "es:Posorja",
+                "vendedor": "Vendedor109"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.243585,
+                    -2.7120017
+                ]
+            },
+            "id": "node/249597633"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249597760",
+                "is_capital": "county",
+                "name": "Puebloviejo",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor110"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.5329942,
+                    -1.551415
+                ]
+            },
+            "id": "node/249597760"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249597771",
+                "gns_classification": "PPL",
+                "gns_uni": "-1378971",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia del Guayas",
+                "name": "Balao",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor111"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8165679,
+                    -2.9110735
+                ]
+            },
+            "id": "node/249597771"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249597775",
+                "gns_classification": "PPL",
+                "is_capital": "state",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Galápagos",
+                "name": "Puerto Baquerizo Moreno",
+                "name:mk": "Пуерто Бакерисо Морено",
+                "name:ru": "Пуэрто-Бакерисо-Морено",
+                "place": "town",
+                "population": "18640",
+                "source": "GNS",
+                "wikidata": "Q694109",
+                "wikipedia": "es:Puerto Baquerizo Moreno",
+                "wikipedia:de": "Puerto_Baquerizo_Moreno",
+                "vendedor": "Vendedor112"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.610191,
+                    -0.902599
+                ]
+            },
+            "id": "node/249597775"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249597776",
+                "is_in:state": "Provincia de El Oro",
+                "name": "Puerto Bolívar",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor113"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9993667,
+                    -3.2682378
+                ]
+            },
+            "id": "node/249597776"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249597793",
+                "gns_classification": "PPL",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Galápagos",
+                "name": "Puerto Ayora",
+                "name:ko": "푸에르토아요라",
+                "name:mk": "Пуерто Ајора",
+                "place": "town",
+                "source": "GNS",
+                "wikidata": "Q1013526",
+                "wikipedia": "es:Puerto Ayora",
+                "wikipedia:de": "Puerto_Ayora",
+                "vendedor": "Vendedor114"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.3134198,
+                    -0.7471674
+                ]
+            },
+            "id": "node/249597793"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249597802",
+                "gns_classification": "PPL",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Sucumbíos",
+                "name": "Puerto El Carmen de Putumayo",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor115"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.865008,
+                    0.1168523
+                ]
+            },
+            "id": "node/249597802"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249597857",
+                "gns_classification": "PPL",
+                "gns_uni": "-1379014",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Manabí",
+                "name": "Puerto López",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor116"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.8112663,
+                    -1.5590545
+                ]
+            },
+            "id": "node/249597857"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249597914",
+                "ele": "2628",
+                "gns_classification": "PPL",
+                "gns_uni": "-1380662",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Cotopaxi",
+                "name": "San Miguel de Salcedo",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor117"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.5907824,
+                    -1.043699
+                ]
+            },
+            "id": "node/249597914"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249598185",
+                "is_capital": "county",
+                "name": "San Miguel",
+                "place": "town",
+                "source": "GNS",
+                "wikidata": "Q7414937",
+                "vendedor": "Vendedor118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.0421705,
+                    -1.7082586
+                ]
+            },
+            "id": "node/249598185"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249598268",
+                "gns_classification": "PPL",
+                "gns_uni": "-1380607",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Manabí",
+                "name": "San Mateo",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor119"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.8111938,
+                    -0.9595227
+                ]
+            },
+            "id": "node/249598268"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249598523",
+                "gns_classification": "PPL",
+                "gns_uni": "8026946",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Esmeraldas",
+                "name": "San Lorenzo",
+                "name:ru": "Сан-Лоренсо",
+                "place": "town",
+                "source": "GNS",
+                "wikidata": "Q7414682",
+                "wikipedia": "en:San Lorenzo, Ecuador",
+                "vendedor": "Vendedor120"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.8369504,
+                    1.2883387
+                ]
+            },
+            "id": "node/249598523"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249598535",
+                "gns_classification": "PPL",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Manabí",
+                "name": "San Lorenzo",
+                "place": "town",
+                "population": "1937",
+                "population:date": "2001-11-25",
+                "source": "GNS",
+                "source:population": "https://www.ecuadorencifras.gob.ec/documentos/web-inec/Bibliotecas/Fasciculos_Censales/Fasc_Cantonales/Manabi/Fasciculo_Manta.pdf",
+                "vendedor": "Vendedor121"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.9070424,
+                    -1.0639811
+                ]
+            },
+            "id": "node/249598535"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249598593",
+                "gns_classification": "PPL",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Morona Santiago",
+                "name": "San Juan Bosco",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor122"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.5300164,
+                    -3.1183356
+                ]
+            },
+            "id": "node/249598593"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249598696",
+                "gns_classification": "PPL",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia del Guayas",
+                "name": "Santa Lucía",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor123"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9849423,
+                    -1.7162715
+                ]
+            },
+            "id": "node/249598696"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249598701",
+                "alt_name": "Chaguarurco",
+                "is_capital": "municipality",
+                "name": "Santa Isabel",
+                "place": "town",
+                "vendedor": "Vendedor124"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3151614,
+                    -3.2741754
+                ]
+            },
+            "id": "node/249598701"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249598708",
+                "gns_classification": "PPL",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia del Pastaza",
+                "name": "Santa Clara",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor125"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.8866862,
+                    -1.2636336
+                ]
+            },
+            "id": "node/249598708"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249598712",
+                "capital": "4",
+                "gns_classification": "PPL",
+                "is_capital": "state",
+                "name": "Santa Elena",
+                "place": "town",
+                "population": "26586",
+                "url": "http://www.imse.gov.ec/",
+                "wikidata": "Q135864",
+                "vendedor": "Vendedor126"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.8576945,
+                    -2.2270098
+                ]
+            },
+            "id": "node/249598712"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249598736",
+                "gns_classification": "PPL",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Imbabura",
+                "name": "San Roque",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor127"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.2341309,
+                    0.3018466
+                ]
+            },
+            "id": "node/249598736"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249598742",
+                "alt_name": "Cañon de los monos",
+                "gns_classification": "PPL",
+                "is_capital": "municipality",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Francisco de Orellana",
+                "name": "San Sebastián del Coca",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor128"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.0052075,
+                    -0.3382384
+                ]
+            },
+            "id": "node/249598742"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249598902",
+                "gns_classification": "PPL",
+                "gns_uni": "-1379924",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia del Guayas",
+                "name": "Salitre",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor129"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8187323,
+                    -1.8289209
+                ]
+            },
+            "id": "node/249598902"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249598984",
+                "gns_classification": "PPL",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:county": "Salinas",
+                "is_in:state": "Provincia de Santa Elena",
+                "name": "Salinas",
+                "place": "city",
+                "population": "29294",
+                "source": "GNS;wikipedia",
+                "url": "http://www.salinas.gov.ec/",
+                "wikidata": "Q1026284",
+                "wikipedia": "es:Salinas (Santa Elena)",
+                "wikipedia:de": "Salinas_(Ecuador)",
+                "vendedor": "Vendedor130"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.967163,
+                    -2.2079292
+                ]
+            },
+            "id": "node/249598984"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249599176",
+                "capital": "4",
+                "is_capital": "state",
+                "name": "Tena",
+                "place": "town",
+                "wikidata": "Q994312",
+                "wikipedia": "en:Tena, Ecuador",
+                "vendedor": "Vendedor131"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.8163379,
+                    -0.9916185
+                ]
+            },
+            "id": "node/249599176"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249599198",
+                "gns_classification": "PPL",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Sucumbíos",
+                "name": "Tarapoa",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.3418694,
+                    -0.126629
+                ]
+            },
+            "id": "node/249599198"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249599269",
+                "gns_classification": "PPL",
+                "gns_uni": "-1382015",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia del Guayas",
+                "name": "Tenguel",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor133"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7894938,
+                    -2.995393
+                ]
+            },
+            "id": "node/249599269"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249599402",
+                "alt_name": "Tulcan,Tulchan",
+                "capital": "4",
+                "gns_classification": "PPL",
+                "is_capital": "state",
+                "name": "Tulcán",
+                "name:en": "Tulcán",
+                "name:ko": "툴칸터미널",
+                "name:ru": "Тулькан",
+                "name:uk": "Тулькан",
+                "place": "town",
+                "population": "82734",
+                "source": "GNS;wikipedia",
+                "wikidata": "Q752113",
+                "wikipedia": "en:Tulcán",
+                "vendedor": "Vendedor134"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.7172151,
+                    0.8115707
+                ]
+            },
+            "id": "node/249599402"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249599612",
+                "gns_classification": "PPL",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Manabí",
+                "name": "Tosagua",
+                "place": "town",
+                "source": "GNS",
+                "url": "http://www.tosagua.gov.ec/",
+                "wikidata": "Q5835883",
+                "wikipedia": "es:Tosagua",
+                "vendedor": "Vendedor135"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.2338219,
+                    -0.7850128
+                ]
+            },
+            "id": "node/249599612"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249599637",
+                "gns_classification": "PPL",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Cotopaxi",
+                "name": "Saquisilí",
+                "place": "town",
+                "source": "GNS",
+                "wikidata": "Q2621005",
+                "wikipedia": "en:Saquisilí",
+                "vendedor": "Vendedor136"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.6664006,
+                    -0.8386899
+                ]
+            },
+            "id": "node/249599637"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249599657",
+                "gns_classification": "PPL",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Loja",
+                "name": "Saraguro",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor137"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.2384881,
+                    -3.6224722
+                ]
+            },
+            "id": "node/249599657"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249599719",
+                "gns_classification": "PPL",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de El Oro",
+                "name": "Santa Rosa",
+                "name:en": "Santa Rosa",
+                "name:qu": "Santa Rosa",
+                "place": "town",
+                "source": "GNS",
+                "wikidata": "Q7419863",
+                "wikipedia": "es:Santa Rosa (Ecuador)",
+                "vendedor": "Vendedor138"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9601969,
+                    -3.450323
+                ]
+            },
+            "id": "node/249599719"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249599749",
+                "gns_classification": "PPL",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Manabí",
+                "name": "San Vicente",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor139"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.4084617,
+                    -0.5896279
+                ]
+            },
+            "id": "node/249599749"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249599781",
+                "alt_name": "Santo Domingo",
+                "capital": "4",
+                "ele": "625",
+                "gns_classification": "PPL",
+                "gns_uni": "-1381164",
+                "is_capital": "state",
+                "name": "Santo Domingo de los Tsáchilas",
+                "name:en": "Santo Domingo de los Tsachilas",
+                "place": "city",
+                "population": "270875",
+                "wikidata": "Q1015654",
+                "wikipedia": "es:Santo Domingo (Ecuador)",
+                "vendedor": "Vendedor140"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.1686724,
+                    -0.2546212
+                ]
+            },
+            "id": "node/249599781"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249599830",
+                "gns_classification": "PPL",
+                "gns_uni": "-1381628",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Esmeraldas",
+                "name": "Súa",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor141"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8746272,
+                    0.8639715
+                ]
+            },
+            "id": "node/249599830"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249599831",
+                "gns_classification": "PPL",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Loja",
+                "name": "Sozoranga",
+                "place": "town",
+                "population": "3761",
+                "population:date": "2010",
+                "source": "GNS",
+                "vendedor": "Vendedor142"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7902815,
+                    -4.3268672
+                ]
+            },
+            "id": "node/249599831"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249599866",
+                "gns_classification": "PPL",
+                "gns_uni": "-1381746",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Pichincha",
+                "name": "Tabacundo",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor143"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.2216436,
+                    0.048201
+                ]
+            },
+            "id": "node/249599866"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249599882",
+                "alt_name": "Shell;La Shell;Shell-Mera",
+                "description": "Originally established in 1937 as a Shell Oil Company base but abandoned by them in 1948.",
+                "gns_classification": "PPL",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia del Pastaza",
+                "name": "Shell",
+                "name:lt": "Šel Mera",
+                "name:qu": "Shell Mera",
+                "name:ro": "Shell Mera",
+                "place": "town",
+                "source": "GNS",
+                "wikidata": "Q5762444",
+                "wikipedia": "en:Shell Mera",
+                "vendedor": "Vendedor144"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.0615532,
+                    -1.4999375
+                ]
+            },
+            "id": "node/249599882"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249599931",
+                "gns_classification": "PPL",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Sucumbíos",
+                "name": "Shushufindi",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor145"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.6449154,
+                    -0.1855469
+                ]
+            },
+            "id": "node/249599931"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249599935",
+                "gns_classification": "PPL",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia del Azuay",
+                "name": "Sígsig",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor146"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.7935919,
+                    -3.0525879
+                ]
+            },
+            "id": "node/249599935"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249599941",
+                "is_capital": "county",
+                "name": "Sigchos",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor147"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.8889502,
+                    -0.7044657
+                ]
+            },
+            "id": "node/249599941"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249599977",
+                "gns_classification": "PPL",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia del Guayas",
+                "name": "Simón Bolívar",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor148"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.4856313,
+                    -2.001911
+                ]
+            },
+            "id": "node/249599977"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249600183",
+                "gns_classification": "PPL",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Esmeraldas",
+                "name": "Muisne",
+                "place": "town",
+                "source": "GNS",
+                "wikidata": "Q6933279",
+                "wikipedia": "en:Muisne",
+                "vendedor": "Vendedor149"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0185958,
+                    0.6104236
+                ]
+            },
+            "id": "node/249600183"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249600323",
+                "gns_classification": "PPL",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Loja",
+                "name": "Zapotillo",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor150"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.243893,
+                    -4.3877496
+                ]
+            },
+            "id": "node/249600323"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249600332",
+                "capital": "4",
+                "ele": "970",
+                "gns_classification": "PPL",
+                "is_capital": "state",
+                "name": "Zamora",
+                "place": "town",
+                "source": "GNS",
+                "wikidata": "Q2283736",
+                "vendedor": "Vendedor151"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.9565614,
+                    -4.0669323
+                ]
+            },
+            "id": "node/249600332"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249600405",
+                "gns_classification": "PPL",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Zamora Chinchipe",
+                "name": "Yantzaza",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor152"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.7608343,
+                    -3.829766
+                ]
+            },
+            "id": "node/249600405"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249600416",
+                "gns_classification": "PPL",
+                "gns_uni": "-1383029",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Pichincha",
+                "name": "Yaruquí",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor153"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.3179492,
+                    -0.1625878
+                ]
+            },
+            "id": "node/249600416"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249600553",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de El Oro",
+                "name": "Zaruma",
+                "place": "town",
+                "url": "http://www.zaruma.gov.ec/",
+                "vendedor": "Vendedor154"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.6104222,
+                    -3.6929693
+                ]
+            },
+            "id": "node/249600553"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249600570",
+                "alt_name": "El Empalme",
+                "gns_classification": "PPL",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia del Guayas",
+                "name": "El Empalme",
+                "place": "town",
+                "source": "GNS",
+                "wikidata": "Q5351224",
+                "vendedor": "Vendedor155"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.6386715,
+                    -1.0427954
+                ]
+            },
+            "id": "node/249600570"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249600577",
+                "gns_classification": "PPL",
+                "gns_uni": "-1382688",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Los Ríos",
+                "name": "Ventanas",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor156"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.4608508,
+                    -1.4420242
+                ]
+            },
+            "id": "node/249600577"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249600598",
+                "name": "Mocache",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor157"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.5052234,
+                    -1.1872022
+                ]
+            },
+            "id": "node/249600598"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249600641",
+                "gns_classification": "PPL",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Los Ríos",
+                "name": "Valencia",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor158"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3522075,
+                    -0.9527954
+                ]
+            },
+            "id": "node/249600641"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249600663",
+                "gns_classification": "PPL",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia del Guayas",
+                "name": "San Jacinto de Yaguachi",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor159"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.6951144,
+                    -2.0963727
+                ]
+            },
+            "id": "node/249600663"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/249600842",
+                "gns_classification": "PPL",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Los Ríos",
+                "name": "Vinces",
+                "place": "town",
+                "source": "GNS",
+                "wikidata": "Q5762368",
+                "vendedor": "Vendedor160"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7509236,
+                    -1.5584095
+                ]
+            },
+            "id": "node/249600842"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/306232992",
+                "is_capital": "county",
+                "name": "Sangolqui",
+                "place": "city",
+                "wikidata": "Q2361658",
+                "wikipedia": "es:Sangolquí",
+                "vendedor": "Vendedor161"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.4483476,
+                    -0.3288822
+                ]
+            },
+            "id": "node/306232992"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/315817471",
+                "ele": "1126",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:county": "Piñas",
+                "is_in:state": "Provincia de El Oro",
+                "name": "Piñas",
+                "place": "town",
+                "source": "wikipedia",
+                "url": "http://www.pinas.gov.ec/",
+                "vendedor": "Vendedor162"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.6825246,
+                    -3.6805246
+                ]
+            },
+            "id": "node/315817471"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/315827455",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:county": "Mera",
+                "is_in:state": "Pastaza",
+                "name": "Mera",
+                "place": "town",
+                "source": "wikipedia",
+                "wikidata": "Q6817855",
+                "wikipedia": "es:Mera",
+                "vendedor": "Vendedor163"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.113393,
+                    -1.4612261
+                ]
+            },
+            "id": "node/315827455"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/352653895",
+                "name": "Amaguaña",
+                "place": "town",
+                "vendedor": "Vendedor164"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.5056384,
+                    -0.3766489
+                ]
+            },
+            "id": "node/352653895"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/358103063",
+                "is_in": "Pichincha",
+                "name": "Tumbaco",
+                "place": "town",
+                "vendedor": "Vendedor165"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.4044951,
+                    -0.2122548
+                ]
+            },
+            "id": "node/358103063"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/358107491",
+                "is_in": "Pichincha",
+                "name": "Calderón",
+                "place": "town",
+                "vendedor": "Vendedor166"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.4237586,
+                    -0.1033674
+                ]
+            },
+            "id": "node/358107491"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/370221289",
+                "is_capital": "municipality",
+                "is_in:county": "Santo Domingo de los Colorados",
+                "is_in:state": "Provincia de Santo Domingo de los Tsáchilas",
+                "name": "Valle Hermoso",
+                "place": "town",
+                "population": "10000",
+                "wikidata": "Q6159041",
+                "wikipedia": "es:Valle Hermoso (Ecuador)",
+                "vendedor": "Vendedor167"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.2804064,
+                    -0.0873259
+                ]
+            },
+            "id": "node/370221289"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/422494490",
+                "is_capital": "county",
+                "name": "Quinsaloma",
+                "place": "town",
+                "vendedor": "Vendedor168"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3143312,
+                    -1.2065709
+                ]
+            },
+            "id": "node/422494490"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/422557958",
+                "is_capital": "county",
+                "name": "Pablo VI",
+                "place": "town",
+                "vendedor": "Vendedor169"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.0269029,
+                    -1.926924
+                ]
+            },
+            "id": "node/422557958"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/443446905",
+                "ele": "1.087158",
+                "name": "Tonsupa",
+                "place": "town",
+                "vendedor": "Vendedor170"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8112657,
+                    0.8913785
+                ]
+            },
+            "id": "node/443446905"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/474574416",
+                "is_in": "Ecuador",
+                "is_in:state": "Provincia de Manabí",
+                "name": "Charapotó",
+                "place": "town",
+                "vendedor": "Vendedor171"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.4877918,
+                    -0.8374084
+                ]
+            },
+            "id": "node/474574416"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/533638874",
+                "is_in:country": "Ecuador",
+                "is_in:county": "Quinindé",
+                "is_in:state": "Provincia de Esmeraldas",
+                "name": "La Unión",
+                "place": "town",
+                "vendedor": "Vendedor172"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.4023061,
+                    0.1357332
+                ]
+            },
+            "id": "node/533638874"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/662694079",
+                "capital": "4",
+                "ele": "2225",
+                "gns_classification": "PPL",
+                "is_capital": "state",
+                "name": "Ibarra",
+                "official_name": "San Miguel de Ibarra",
+                "place": "city",
+                "population": "108666",
+                "source": "GNS",
+                "website": "www.ibarra.gov.ec",
+                "wikidata": "Q946384",
+                "wikipedia": "en:Ibarra, Ecuador",
+                "vendedor": "Vendedor173"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.1199716,
+                    0.3520459
+                ]
+            },
+            "id": "node/662694079"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/760725882",
+                "capital": "4",
+                "name": "Machala",
+                "name:en": "Machala",
+                "name:ru": "Мачала",
+                "name:uk": "Мачала",
+                "place": "city",
+                "url": "http://www.machala.gov.ec/",
+                "wikidata": "Q215080",
+                "wikipedia": "es:Machala",
+                "vendedor": "Vendedor174"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9588518,
+                    -3.2588565
+                ]
+            },
+            "id": "node/760725882"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/847306253",
+                "gns_classification": "PPL",
+                "gns_uni": "-1368875",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia del Guayas",
+                "name": "Virgen de Fátima",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor175"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.6415024,
+                    -2.2495954
+                ]
+            },
+            "id": "node/847306253"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1208294285",
+                "name": "Tres Postes",
+                "place": "town",
+                "vendedor": "Vendedor176"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.6049019,
+                    -1.9873845
+                ]
+            },
+            "id": "node/1208294285"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1208294297",
+                "name": "Patricia Pilar",
+                "place": "town",
+                "population": "12278",
+                "vendedor": "Vendedor177"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3698338,
+                    -0.5734548
+                ]
+            },
+            "id": "node/1208294297"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1324586388",
+                "gns_classification": "PPL",
+                "is_capital": "municipality",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Napo",
+                "name": "Talag",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor178"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.9070839,
+                    -1.0650251
+                ]
+            },
+            "id": "node/1324586388"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1382873170",
+                "gns_classification": "PPL",
+                "is_capital": "municipality",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Sucumbíos",
+                "name": "Pacayacu",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor179"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.589491,
+                    -0.0409772
+                ]
+            },
+            "id": "node/1382873170"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1439513499",
+                "alt_name": "LA AURORA",
+                "designation": "LA AURORA",
+                "int_name": "LA AURORA",
+                "name": "La Aurora",
+                "old_name": "LA AURORA",
+                "place": "town",
+                "source": "LA AURORA",
+                "vendedor": "Vendedor180"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8810928,
+                    -2.0535846
+                ]
+            },
+            "id": "node/1439513499"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1569558818",
+                "name": "Monterrey",
+                "place": "town",
+                "population": "10000",
+                "vendedor": "Vendedor181"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.4950261,
+                    -0.0299025
+                ]
+            },
+            "id": "node/1569558818"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1584718438",
+                "geonameid": "3650199",
+                "gns_classification": "PPL",
+                "is_capital": "municipality",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Loja",
+                "name": "Vilcabamba",
+                "place": "town",
+                "source": "GNS",
+                "wikidata": "Q153528",
+                "wikipedia": "es:Vilcabamba (Ecuador)",
+                "vendedor": "Vendedor182"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.2226158,
+                    -4.2607428
+                ]
+            },
+            "id": "node/1584718438"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1784808921",
+                "name": "Proaño",
+                "place": "town",
+                "vendedor": "Vendedor183"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.1314774,
+                    -2.2663741
+                ]
+            },
+            "id": "node/1784808921"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1793384491",
+                "name": "Huaquillas",
+                "place": "town",
+                "wikidata": "Q3322678",
+                "wikipedia": "en:Huaquillas",
+                "vendedor": "Vendedor184"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.2387968,
+                    -3.4799599
+                ]
+            },
+            "id": "node/1793384491"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1832500248",
+                "name": "Pimampiro",
+                "place": "town",
+                "population": "12970",
+                "website": "https://pimampiro.gob.ec/",
+                "wikidata": "Q1528983",
+                "wikimedia_commons": "Category:Pimampiro Canton",
+                "wikipedia": "es:Cantón Pimampiro",
+                "vendedor": "Vendedor185"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.9402742,
+                    0.393298
+                ]
+            },
+            "id": "node/1832500248"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1886192024",
+                "capital": "6",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:county": "Calvas",
+                "is_in:state": "Loja",
+                "name": "Cariamanga",
+                "place": "town",
+                "population": "21301",
+                "population:date": "2010",
+                "wikidata": "Q54884",
+                "wikipedia": "es:Cariamanga",
+                "vendedor": "Vendedor186"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.5559525,
+                    -4.326038
+                ]
+            },
+            "id": "node/1886192024"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2135511011",
+                "name": "Gualaceo",
+                "place": "town",
+                "vendedor": "Vendedor187"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.7789909,
+                    -2.8898075
+                ]
+            },
+            "id": "node/2135511011"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2137433353",
+                "name": "Jama",
+                "place": "town",
+                "vendedor": "Vendedor188"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.263196,
+                    -0.2025684
+                ]
+            },
+            "id": "node/2137433353"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2163462352",
+                "capital": "6",
+                "name": "Manta",
+                "name:en": "Manta",
+                "name:ru": "Манта",
+                "name:uk": "Манта",
+                "official_name": "San Pablo de Manta",
+                "place": "city",
+                "population": "217553",
+                "population:date": "2010",
+                "source:population": "wikipedia",
+                "wikidata": "Q990738",
+                "wikipedia": "en:Manta, Ecuador",
+                "vendedor": "Vendedor189"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.719265,
+                    -0.9485461
+                ]
+            },
+            "id": "node/2163462352"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2202623207",
+                "alt_name": "San Jacinto de Alamor",
+                "name": "Alamor",
+                "place": "town",
+                "wikidata": "Q4705994",
+                "wikipedia": "es:Alamor",
+                "vendedor": "Vendedor190"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0197281,
+                    -4.0181681
+                ]
+            },
+            "id": "node/2202623207"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2489970342",
+                "name": "Shumiral",
+                "place": "town",
+                "vendedor": "Vendedor191"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.6866958,
+                    -2.9794043
+                ]
+            },
+            "id": "node/2489970342"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2639248363",
+                "name": "Sucúa",
+                "name:en": "Sucua",
+                "place": "town",
+                "source": "GNS",
+                "website": "https://sucua.gob.ec/",
+                "wikidata": "Q3656343",
+                "wikipedia": "es:Cantón Sucúa",
+                "vendedor": "Vendedor192"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.1727383,
+                    -2.4560109
+                ]
+            },
+            "id": "node/2639248363"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2802318242",
+                "ele": "1470",
+                "name": "Malacatos",
+                "place": "town",
+                "vendedor": "Vendedor193"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.2585759,
+                    -4.2193255
+                ]
+            },
+            "id": "node/2802318242"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2882825927",
+                "name": "San Gabriel",
+                "place": "town",
+                "wikidata": "Q4405656",
+                "wikipedia": "en:San Gabriel, Ecuador",
+                "vendedor": "Vendedor194"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.83535,
+                    0.598512
+                ]
+            },
+            "id": "node/2882825927"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2958794835",
+                "name": "Balsas",
+                "place": "town",
+                "vendedor": "Vendedor195"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8236503,
+                    -3.7612974
+                ]
+            },
+            "id": "node/2958794835"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/3003981525",
+                "name": "Naranjito",
+                "place": "town",
+                "vendedor": "Vendedor196"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.4630975,
+                    -2.1685398
+                ]
+            },
+            "id": "node/3003981525"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/3016793408",
+                "name": "Deleg",
+                "place": "town",
+                "vendedor": "Vendedor197"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.9191692,
+                    -2.7734506
+                ]
+            },
+            "id": "node/3016793408"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/3164595476",
+                "name": "Viche",
+                "place": "town",
+                "vendedor": "Vendedor198"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.5411681,
+                    0.6576525
+                ]
+            },
+            "id": "node/3164595476"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/3214357536",
+                "name": "El Guabo",
+                "place": "town",
+                "vendedor": "Vendedor199"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8296713,
+                    -3.2413487
+                ]
+            },
+            "id": "node/3214357536"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/3218053595",
+                "name": "Julio Andrade",
+                "place": "town",
+                "vendedor": "Vendedor200"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.7181151,
+                    0.6607367
+                ]
+            },
+            "id": "node/3218053595"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/3231541053",
+                "name": "La Unión",
+                "place": "town",
+                "vendedor": "Vendedor201"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3937414,
+                    -1.7086735
+                ]
+            },
+            "id": "node/3231541053"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/3390412558",
+                "gns_classification": "PPL",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia del Chimborazo",
+                "name": "Guamote",
+                "place": "town",
+                "population": "2648",
+                "population:date": "2010",
+                "source": "GNS",
+                "vendedor": "Vendedor202"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.7110902,
+                    -1.9338171
+                ]
+            },
+            "id": "node/3390412558"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/3406156991",
+                "gns_classification": "PPL",
+                "gns_uni": "-1377810",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia del Guayas",
+                "name": "Palestina",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor203"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9807392,
+                    -1.629117
+                ]
+            },
+            "id": "node/3406156991"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/3627479297",
+                "alt_name": "Echeandia",
+                "ele": "340",
+                "name": "Manuel de Echeandia",
+                "place": "town",
+                "vendedor": "Vendedor204"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.2797401,
+                    -1.4319877
+                ]
+            },
+            "id": "node/3627479297"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/3827897757",
+                "name": "Atuntaqui",
+                "place": "town",
+                "vendedor": "Vendedor205"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.2184449,
+                    0.3316802
+                ]
+            },
+            "id": "node/3827897757"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/3898548826",
+                "gns_classification": "PPL",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia del Guayas",
+                "name": "El Triunfo",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor206"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.4026362,
+                    -2.3316707
+                ]
+            },
+            "id": "node/3898548826"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/4067238512",
+                "name": "Las Golondrinas",
+                "place": "town",
+                "vendedor": "Vendedor207"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.2121822,
+                    0.3226599
+                ]
+            },
+            "id": "node/4067238512"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/4147563514",
+                "gns_classification": "PPL",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia de Manabí",
+                "name": "Cañitas",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor208"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.4691933,
+                    -0.8541205
+                ]
+            },
+            "id": "node/4147563514"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/4316622331",
+                "name": "Camilo Ponce Enríquez",
+                "place": "town",
+                "vendedor": "Vendedor209"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7461898,
+                    -3.0619406
+                ]
+            },
+            "id": "node/4316622331"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/4420348811",
+                "name": "Zumba",
+                "place": "town",
+                "vendedor": "Vendedor210"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.1307653,
+                    -4.8632629
+                ]
+            },
+            "id": "node/4420348811"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/4488671145",
+                "alt_name": "El Coca",
+                "capital": "4",
+                "name": "Puerto Francisco de Orellana",
+                "place": "town",
+                "wikidata": "Q1014564",
+                "wikipedia": "es:Puerto Francisco de Orellana",
+                "vendedor": "Vendedor211"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.9837216,
+                    -0.4721804
+                ]
+            },
+            "id": "node/4488671145"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/4729574707",
+                "capital": "4",
+                "designation": "Ciudad de Loja",
+                "int_name": "City of Loja",
+                "name": "Loja",
+                "name:es": "Loja",
+                "place": "city",
+                "population": "180617",
+                "population:date": "2010",
+                "source": "GPS",
+                "wikidata": "Q944697",
+                "wikipedia": "es:Loja (Ecuador)",
+                "vendedor": "Vendedor212"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.2016661,
+                    -3.996845
+                ]
+            },
+            "id": "node/4729574707"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/4823907764",
+                "name": "Machalilla",
+                "place": "town",
+                "vendedor": "Vendedor213"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.7667523,
+                    -1.4771438
+                ]
+            },
+            "id": "node/4823907764"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/4930639815",
+                "name": "Pasaje",
+                "place": "town",
+                "vendedor": "Vendedor214"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8075467,
+                    -3.3276396
+                ]
+            },
+            "id": "node/4930639815"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/4941304087",
+                "ele": "440",
+                "gns_classification": "PPL",
+                "is_capital": "county",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:iso_3166_2": "EC-L",
+                "is_in:state": "Provincia de Loja",
+                "name": "Macará",
+                "place": "town",
+                "population": "15730",
+                "population:date": "2010",
+                "wikidata": "Q6722685",
+                "wikipedia": "es:Macará",
+                "vendedor": "Vendedor215"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9431953,
+                    -4.3795699
+                ]
+            },
+            "id": "node/4941304087"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/4955027345",
+                "name": "Taisha",
+                "place": "town",
+                "vendedor": "Vendedor216"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5087463,
+                    -2.3812385
+                ]
+            },
+            "id": "node/4955027345"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5036380330",
+                "alt_name": "General Antonio Elizalde",
+                "gns_classification": "PPL",
+                "gns_uni": "-1368865",
+                "is_in:country": "Ecuador",
+                "is_in:country_code": "EC",
+                "is_in:state": "Provincia del Guayas",
+                "name": "Bucay",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor217"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.1376329,
+                    -2.2004367
+                ]
+            },
+            "id": "node/5036380330"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5044836494",
+                "alt_name": "Las Juntas",
+                "name": "Mata de Cacao",
+                "place": "town",
+                "source": "GNS",
+                "vendedor": "Vendedor218"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3552996,
+                    -1.9918576
+                ]
+            },
+            "id": "node/5044836494"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5049146548",
+                "name": "Carapungo",
+                "place": "town",
+                "vendedor": "Vendedor219"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.4531168,
+                    -0.0983633
+                ]
+            },
+            "id": "node/5049146548"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5067842676",
+                "is_capital": "county",
+                "name": "Caluma",
+                "place": "town",
+                "vendedor": "Vendedor220"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.2601724,
+                    -1.6328007
+                ]
+            },
+            "id": "node/5067842676"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5113516745",
+                "name": "San José del Tambo",
+                "place": "town",
+                "source": "GNS",
+                "wikidata": "Q20621340",
+                "vendedor": "Vendedor221"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.2352438,
+                    -1.9558945
+                ]
+            },
+            "id": "node/5113516745"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5200149728",
+                "name": "Huamboya",
+                "place": "town",
+                "vendedor": "Vendedor222"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.9904213,
+                    -1.9464404
+                ]
+            },
+            "id": "node/5200149728"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5397219762",
+                "is_capital": "county",
+                "name": "Daule",
+                "place": "city",
+                "source": "GNS",
+                "vendedor": "Vendedor223"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9804093,
+                    -1.8641689
+                ]
+            },
+            "id": "node/5397219762"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5569833838",
+                "alt_name": "Baños de Agua Santa",
+                "ele": "1815",
+                "is_capital": "county",
+                "name": "Baños",
+                "name:lt": "Banjos de Agva Santa",
+                "name:ru": "Баньос",
+                "name:uk": "Баньйос",
+                "old_name": "Baños de Agua Santa",
+                "place": "town",
+                "wikipedia": "en:Baños de Agua Santa",
+                "vendedor": "Vendedor224"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.4234058,
+                    -1.3979607
+                ]
+            },
+            "id": "node/5569833838"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5738045771",
+                "ele": "650",
+                "name": "Portovelo",
+                "name:es": "Portovelo",
+                "place": "town",
+                "population": "12200",
+                "postal_code": "071153",
+                "website": "https://www.portovelo.gob.ec",
+                "wikidata": "Q661446",
+                "wikipedia": "es:Cantón Portovelo",
+                "vendedor": "Vendedor225"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.6172038,
+                    -3.7152273
+                ]
+            },
+            "id": "node/5738045771"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/6488373385",
+                "name": "Arajuno",
+                "place": "town",
+                "website": "https://www.arajuno.gob.ec/arajuno/",
+                "vendedor": "Vendedor226"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.6872799,
+                    -1.2323299
+                ]
+            },
+            "id": "node/6488373385"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/6673006733",
+                "name": "Santa Ana",
+                "place": "town",
+                "vendedor": "Vendedor227"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.3717808,
+                    -1.2076088
+                ]
+            },
+            "id": "node/6673006733"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/7649567236",
+                "name": "La Libertad",
+                "place": "city",
+                "wikidata": "Q1798895",
+                "wikipedia": "es:La Libertad (Ecuador)",
+                "vendedor": "Vendedor228"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.9077647,
+                    -2.2208117
+                ]
+            },
+            "id": "node/7649567236"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/8075064862",
+                "ele": "2450",
+                "is_capital": "county",
+                "name": "San José de Chimbo",
+                "place": "town",
+                "vendedor": "Vendedor229"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.0257552,
+                    -1.683383
+                ]
+            },
+            "id": "node/8075064862"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/8483395893",
+                "name": "Salinas",
+                "place": "town",
+                "vendedor": "Vendedor230"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.519507,
+                    -0.819698
+                ]
+            },
+            "id": "node/8483395893"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/9101341923",
+                "name": "Cumbaya",
+                "place": "town",
+                "vendedor": "Vendedor231"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.4293647,
+                    -0.2011693
+                ]
+            },
+            "id": "node/9101341923"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/9149264504",
+                "name": "Conocoto",
+                "place": "town",
+                "vendedor": "Vendedor232"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.4777987,
+                    -0.2920323
+                ]
+            },
+            "id": "node/9149264504"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/9911249241",
+                "capital": "4",
+                "ele": "2560",
+                "heritage": "1",
+                "heritage:operator": "whc",
+                "historic": "unesco_world_heritage",
+                "is_capital": "state",
+                "name": "Cuenca",
+                "name:ar": "كوينكا",
+                "name:be": "Куэнка",
+                "name:he": "קואנקה",
+                "name:ja": "クエンカ",
+                "name:ka": "კუენკა",
+                "name:ko": "쿠엥카",
+                "name:lt": "Kuenka",
+                "name:os": "Куэнкæ",
+                "name:qu": "Tumipampa",
+                "name:ru": "Куэнка",
+                "name:th": "เกวงกา",
+                "name:uk": "Куенка",
+                "name:zh": "昆卡",
+                "official_name": "Santa Ana de los cuatro ríos de Cuenca",
+                "place": "city",
+                "population": "495776",
+                "whc:inscription_date": "1999",
+                "wikidata": "Q54886",
+                "wikipedia": "es:Cuenca (Ecuador)",
+                "vendedor": "Vendedor233"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.0041726,
+                    -2.8974072
+                ]
+            },
+            "id": "node/9911249241"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/10018067070",
+                "name": "Arenillas",
+                "place": "town",
+                "vendedor": "Vendedor234"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0697176,
+                    -3.5577114
+                ]
+            },
+            "id": "node/10018067070"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/11330116232",
+                "name": "San Carlos",
+                "place": "town",
+                "vendedor": "Vendedor235"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.436386,
+                    -1.1160462
+                ]
+            },
+            "id": "node/11330116232"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/11544900119",
+                "name": "Tachina",
+                "place": "town",
+                "wikidata": "Q111292198",
+                "vendedor": "Vendedor236"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.629116,
+                    0.9614352
+                ]
+            },
+            "id": "node/11544900119"
+        }
+    ]
+}
